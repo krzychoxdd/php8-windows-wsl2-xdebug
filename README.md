@@ -1,5 +1,5 @@
 # Uruchamianie PHP 8 + XDEBUG na Windows w WSL na Docker
-#### Wersja z php8.2-fpm (wersja z kontenerem php8.2 oddzielnym kontenerem Nginx - LINK)
+#### Wersja z php8.2-fpm (wersja z kontenerem php8.2 oddzielnym kontenerem Nginx - https://github.com/krzychoxdd/php8-windows-wsl2-xdebug-separete-php-nginx)
 
 Pliki projektu znajdują się na windows C:\Users\NazwaUzytkownika\katalog. Kontener uruchamiam z poziomu Ubuntu 24.04 
 uruchomionym przez WSL 2 przechodządz na ``/mnt/c/Users/NazwaUzytkownika/katalog``, standardowo 
